@@ -2,6 +2,8 @@
 ## [Таблица с результатами](./reports/report.csv)
 ## Вставка
 ![](./images/ArraylistAdd.png)
+## Доступ к элементу
+![](./images/ArraylistGet.png)
 ## Поиск
 ![](./images/ArraylistIndexof.png)
 ## Удаление
