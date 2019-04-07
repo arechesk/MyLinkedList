@@ -37,8 +37,10 @@
 ## [Таблица с результатами](./reports/report_mylinkedlist.csv)
 ## Вставка
 ![](./images/MylistAdd.png)
-## Поиск
+## Доступ к элементу
 ![](./images/MylistGet.png)
+## Поиск
+![](./images/MylistIndexof.png)
 ## Удаление
 ![](./images/MyLinkedRemove.png)
 ## Амортизированная оценка
