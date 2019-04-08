@@ -149,7 +149,7 @@ public class MyLinkedList<E> implements ILinkedList<E> {
             Node<E> head=node(index-1);
             res=head.nextNode;
             head.nextNode=(res.nextNode);
-            head.prevNode=res.prevNode;
+            head.prevNode=res.prevNode.prevNode;
             res.nextNode.prevNode=head;
             res.prevNode.nextNode=head.nextNode;
 
