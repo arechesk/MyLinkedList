@@ -136,6 +136,7 @@ public class StupidMyLinkedList<E> implements ILinkedList<E> {
         }
         size--;
         if(midIndex>index)midIndex--;
+        else
         if(midIndex==index){midNode=midNode.nextNode;}
         return res.element;
 
